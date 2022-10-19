@@ -6,6 +6,7 @@ USE AT YOUR OWN RISK, NO WARRANTY!
 
 This is an experimental GIS software with CUDA support.
 
+
 Usage:
 1. download full repository and run zeusz_ultra.exe
 
@@ -16,6 +17,7 @@ Usage:
 Notice: this is the first try out verison, which can render only railway data.
 
 Updates will be published here.
+
 
 Minimum requirements:
 
