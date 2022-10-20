@@ -6,6 +6,7 @@ USE AT YOUR OWN RISK, NO WARRANTY!
 
 This is an experimental GIS software with CUDA support.
 
+A PDF manual is coming soon!
 
 Usage:
 1. download full repository and run zeusz_ultra.exe
