@@ -21,7 +21,7 @@ Minimum requirements:
 
 Windows 10/11
 
-9GB RAM for real-time rendering, 32GB RAM for memory pre-rendering feature
+6 GB RAM for real-time rendering, 32 GB RAM for memory pre-rendering feature
 
 NVIDIA GPU with CUDA support
 
