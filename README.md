@@ -10,20 +10,17 @@ This is an experimental GIS software with CUDA support.
 Usage:
 1. download full repository and run zeusz_ultra.exe
 
-3. Click on the 'Map' button on the main screen.
-
-5. Use your gamepad to rotate view etc.
+2. Use your gamepad to rotate view etc.
  
-Notice: this is the first try out verison, which can render only railway data.
+Notice: only railway data available at the moment.
 
-Updates will be published here.
-
+--------------------------------
 
 Minimum requirements:
 
 Windows 10/11
 
-9GB RAM / 32GB RAM for memory pre-render feature
+9GB RAM for real-time rendering, 32GB RAM for memory pre-rendering feature
 
 NVIDIA GPU with CUDA support
 
