@@ -23,8 +23,17 @@ Minimum requirements:
 
 Windows 10/11
 
-6GB RAM
+9GB RAM / 32GB RAM for memory pre-render feature
 
 NVIDIA GPU with CUDA support
 
 Gamepad to view/rotate maps
+
+-----------------------------
+Version history
+
+V0.1:
+Initial upload with basic render feature.
+
+V0.11:
+Full GPU configuration and render settings enabled, including pre-rendering (requires lots of RAM!).
