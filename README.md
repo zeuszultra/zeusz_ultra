@@ -30,10 +30,14 @@ Gamepad to view/rotate maps
 -----------------------------
 Version history
 
+V0.2:
+USB GNSS receiver support added.
+
 V0.1:
 Initial upload with basic render feature.
 
 V0.11:
 Full GPU configuration and render settings enabled, including pre-rendering (requires lots of RAM!).
 
-![kép](https://user-images.githubusercontent.com/116118578/197072813-9f7f8ec3-c09f-411d-ac90-27ae849b646e.png)
+![kép](https://user-images.githubusercontent.com/116118578/198412287-3e29ad30-eac5-4fd9-a8a8-6b89214b26b0.png)
+
