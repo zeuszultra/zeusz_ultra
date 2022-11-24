@@ -42,8 +42,11 @@ Version history
 
 V0.2.1:
 Online documentation available.
+
 Terrain and height map data available.
+
 Minor fixes.
+
 
 V0.2:
 
@@ -52,6 +55,7 @@ USB GNSS receiver support added.
 V0.11:
 
 Full GPU configuration and render settings enabled, including pre-rendering (requires lots of RAM!).
+
 
 V0.1:
 
