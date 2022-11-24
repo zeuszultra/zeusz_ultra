@@ -6,6 +6,8 @@ USE AT YOUR OWN RISK, NO WARRANTY!
 
 This is an experimental GIS software with CUDA support.
 
+Project micro site: https://feherkrisztian.com/zeusz_ultra/
+
 Online manual: https://feherkrisztian.com/zeusz_ultra/manual.html
 
 Usage:
