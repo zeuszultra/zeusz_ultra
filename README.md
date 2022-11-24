@@ -6,14 +6,16 @@ USE AT YOUR OWN RISK, NO WARRANTY!
 
 This is an experimental GIS software with CUDA support.
 
-A PDF manual is coming soon!
+Online manual: https://feherkrisztian.com/zeusz_ultra/manual.html
 
 Usage:
-1. download full repository and run zeusz_ultra.exe
-
+1. Download full repository and run zeusz_ultra.exe
+  Additional data files:
+   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_hungary.ter
+   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_height_map.ter
 2. Use your gamepad to rotate view etc.
  
-Notice: only railway data available at the moment.
+Notice: only road and railway data available at the moment.
 
 --------------------------------
 
@@ -21,7 +23,7 @@ Minimum requirements:
 
 Windows 10/11
 
-6 GB RAM for real-time rendering, 32 GB RAM for memory pre-rendering feature
+8 GB RAM for real-time rendering, 32 GB RAM recommended
 
 NVIDIA GPU with CUDA support
 
@@ -29,6 +31,11 @@ Gamepad to view/rotate maps
 
 -----------------------------
 Version history
+
+V0.2.1:
+Online documentation available.
+Terrain and height map data available.
+Minor fixes.
 
 V0.2:
 
