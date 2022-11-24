@@ -10,9 +10,13 @@ Online manual: https://feherkrisztian.com/zeusz_ultra/manual.html
 
 Usage:
 1. Download full repository and run zeusz_ultra.exe
+
   Additional data files:
+  
    https://feherkrisztian.com/zeusz_ultra/downloads/terrain_hungary.ter
+   
    https://feherkrisztian.com/zeusz_ultra/downloads/terrain_height_map.ter
+   
 2. Use your gamepad to rotate view etc.
  
 Notice: only road and railway data available at the moment.
