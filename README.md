@@ -11,7 +11,7 @@ Online manual: https://feherkrisztian.com/zeusz_ultra/manual.html
 Usage:
 1. Download full repository and run zeusz_ultra.exe
 
-  Additional data files:
+  Additional data files (publicly available NASA SRTM and OpenStreetMap derivatives):
   
    https://feherkrisztian.com/zeusz_ultra/downloads/terrain_hungary.ter
    
