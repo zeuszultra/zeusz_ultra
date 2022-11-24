@@ -17,6 +17,8 @@ Usage:
    
    https://feherkrisztian.com/zeusz_ultra/downloads/terrain_height_map.ter
    
+   https://feherkrisztian.com/zeusz_ultra/downloads/roads.ter
+   
 2. Use your gamepad to rotate view etc.
  
 Notice: only road and railway data available at the moment.
