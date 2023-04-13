@@ -40,6 +40,9 @@ Gamepad to view/rotate maps
 -----------------------------
 Version history
 
+2023/04/13
+HERMES tool set added.
+
 V0.2.1:
 Online documentation available.
 
