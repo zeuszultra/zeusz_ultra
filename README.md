@@ -40,6 +40,11 @@ Gamepad to view/rotate maps
 -----------------------------
 Version history
 
+2023/12/29
+V0.2.2
+Minor changes and fixes.
+Added new TER files: ROADS and RAILWAYS.
+
 2023/04/13
 HERMES tool set added.
 
