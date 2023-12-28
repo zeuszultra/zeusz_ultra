@@ -44,6 +44,7 @@ Version history
 V0.2.2
 Minor changes and fixes for better multi-GPU support.
 Added new TER file: RAILWAYS.
+Terrain handling is temporarely disabled (major changes in progress).
 
 2023/04/13
 HERMES tool set added.
