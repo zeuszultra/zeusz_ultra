@@ -42,7 +42,7 @@ Version history
 
 2023/12/29
 V0.2.2
-Minor changes and fixes.
+Minor changes and fixes for better multi-GPU support.
 Added new TER file: RAILWAYS.
 
 2023/04/13
