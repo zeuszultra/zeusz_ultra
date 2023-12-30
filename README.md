@@ -31,7 +31,7 @@ Minimum requirements:
 
 Windows 10/11
 
-8 GB RAM for real-time rendering, 32 GB RAM recommended
+64 GB RAM minimum
 
 NVIDIA GPU with CUDA support, 8GB VRAM minimum recommended
 
