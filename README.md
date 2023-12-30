@@ -15,11 +15,13 @@ Usage:
 
   Additional data files (publicly available NASA SRTM and OpenStreetMap derivatives):
   
-   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_hungary.ter
+   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_hungary.zip
    
-   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_height_map.ter
+   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_height_map.zip
    
-   https://feherkrisztian.com/zeusz_ultra/downloads/roads.ter
+   https://feherkrisztian.com/zeusz_ultra/downloads/roads.zip
+   
+   https://feherkrisztian.com/zeusz_ultra/downloads/buildings.zip
    
 2. Use your gamepad to rotate view etc.
  
