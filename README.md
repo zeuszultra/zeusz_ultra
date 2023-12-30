@@ -40,7 +40,7 @@ Gamepad to view/rotate maps
 -----------------------------
 Version history
 2023/12/30
-V0.2.3
+V0.2.3<br>
 Terrain/height handling is re-enabled.
 New terrain files available.
 
