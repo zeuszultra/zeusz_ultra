@@ -39,13 +39,13 @@ Gamepad to view/rotate maps
 
 -----------------------------
 Version history
-2023/12/30
+2023/12/30<br>
 V0.2.3<br>
 Terrain/height handling is re-enabled.
 New terrain files available.
 
-2023/12/29
-V0.2.2
+2023/12/29<br>
+V0.2.2<br>
 Minor changes and fixes for better multi-GPU support.
 Added new TER file: RAILWAYS.
 Terrain handling is temporarely disabled (major changes in progress).
