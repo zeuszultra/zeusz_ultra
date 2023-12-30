@@ -33,12 +33,16 @@ Windows 10/11
 
 8 GB RAM for real-time rendering, 32 GB RAM recommended
 
-NVIDIA GPU with CUDA support
+NVIDIA GPU with CUDA support, 8GB VRAM minimum recommended
 
 Gamepad to view/rotate maps
 
 -----------------------------
 Version history
+2023/12/30
+V0.2.3
+Terrain/height handling is re-enabled.
+New terrain files available.
 
 2023/12/29
 V0.2.2
