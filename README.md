@@ -40,7 +40,7 @@ NVIDIA GPU with CUDA support, 8GB VRAM minimum recommended
 Gamepad to view/rotate maps
 
 -----------------------------
-Version history
+Version history<BR>
 2023/12/30<br>
 V0.2.3<br>
 Terrain/height handling is re-enabled.
