@@ -33,14 +33,18 @@ Minimum requirements:
 
 Windows 10/11
 
-64 GB RAM minimum
+16 GB RAM minimum
 
-NVIDIA GPU with CUDA support, 8GB VRAM minimum recommended
+NVIDIA GPU with CUDA support, 2GB VRAM minimum recommended, 4 or 8 GB recommended
 
 Gamepad to view/rotate maps
 
 -----------------------------
 Version history<BR>
+2024/02/07<br>
+V0.2.3<br>
+
+
 2023/12/30<br>
 V0.2.3<br>
 Terrain/height handling is re-enabled.
@@ -78,6 +82,5 @@ V0.1:
 Initial upload with basic render feature.
 
 
-
-![kép](https://user-images.githubusercontent.com/116118578/198412287-3e29ad30-eac5-4fd9-a8a8-6b89214b26b0.png)
+![kép](https://github.com/zeuszultra/zeusz_ultra/assets/116118578/b5621709-e99b-440b-a1be-18d8109af7d5)
 
