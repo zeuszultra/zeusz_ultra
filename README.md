@@ -35,10 +35,14 @@ Version history<BR>
 2024/02/07<br>
 V0.4.0<br>
 Two major bug fixes for memory handling
-Ultra-fast startup, no more memory allocations at startup
+Ultra-fast startup, no more default memory allocations at startup
 Major fix on discrete GPU-map layer associations
 Mixed layer-object types supported for rendering
-
+Much lower minimum system requirements
+Now 8 map layers supported
+Fixed GPS visualisation
+Server and client modes available
+GPS coordinate sending over network enabled
 
 
 2023/12/30<br>
