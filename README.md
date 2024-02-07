@@ -13,20 +13,10 @@ Online manual (ENGLISH): https://feherkrisztian.com/zeusz_ultra/manual.html
 Usage:
 1. Download full repository and run zeusz_ultra.exe
 
-  Additional data files (publicly available NASA SRTM and OpenStreetMap derivatives):
+  MAP / GIS data files (publicly available NASA SRTM and OpenStreetMap derivatives): https://feherkrisztian.com/zeusz_ultra/manual.html 
   
-   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_hungary.zip
-   
-   https://feherkrisztian.com/zeusz_ultra/downloads/terrain_height_map.zip
-   
-   https://feherkrisztian.com/zeusz_ultra/downloads/roads.zip
-   
-   https://feherkrisztian.com/zeusz_ultra/downloads/buildings.zip
-   
-2. Use your gamepad to rotate view etc.
+2. Use a gamepad to rotate view etc.
  
-Notice: only road and railway data available at the moment.
-
 --------------------------------
 
 Minimum requirements:
@@ -34,7 +24,8 @@ Minimum requirements:
 Windows 10/11
 
 16 GB RAM minimum
-
+CUDA capable GPU
+Latest CUDA runtime libraries
 NVIDIA GPU with CUDA support, 2GB VRAM minimum recommended, 4 or 8 GB recommended
 
 Gamepad to view/rotate maps
@@ -42,7 +33,12 @@ Gamepad to view/rotate maps
 -----------------------------
 Version history<BR>
 2024/02/07<br>
-V0.2.3<br>
+V0.4.0<br>
+Two major bug fixes for memory handling
+Ultra-fast startup, no more memory allocations at startup
+Major fix on discrete GPU-map layer associations
+Mixed layer-object types supported for rendering
+
 
 
 2023/12/30<br>
