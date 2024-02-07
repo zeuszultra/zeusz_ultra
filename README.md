@@ -20,29 +20,28 @@ Usage:
 --------------------------------
 
 Minimum requirements:
-
-Windows 10/11
-
-16 GB RAM minimum
-CUDA capable GPU
-Latest CUDA runtime libraries
-NVIDIA GPU with CUDA support, 2GB VRAM minimum recommended, 4 or 8 GB recommended
-
-Gamepad to view/rotate maps
+<br>
+Windows 10/11<br>
+<br>
+16 GB RAM minimum<br>
+CUDA capable GPU<br>
+Latest CUDA runtime libraries<br>
+NVIDIA GPU with CUDA support, 2GB VRAM minimum recommended, 4 or 8 GB recommended<br>
+Gamepad to view/rotate maps<br>
 
 -----------------------------
 Version history<BR>
 2024/02/07<br>
 V0.4.0<br>
-Two major bug fixes for memory handling
-Ultra-fast startup, no more default memory allocations at startup
-Major fix on discrete GPU-map layer associations
-Mixed layer-object types supported for rendering
-Much lower minimum system requirements
-Now 8 map layers supported
-Fixed GPS visualisation
-Server and client modes available
-GPS coordinate sending over network enabled
+Two major bug fixes for memory handling<br>
+Ultra-fast startup, no more default memory allocations at startup<br>
+Major fix on discrete GPU-map layer associations<br>
+Mixed layer-object types supported for rendering<br>
+Much lower minimum system requirements<br>
+Now 8 map layers supported<br>
+Fixed GPS visualisation<br>
+Server and client modes available<br>
+GPS coordinate sending over network enabled<br>
 
 
 2023/12/30<br>
