@@ -26,11 +26,21 @@ Windows 10/11<br>
 16 GB RAM minimum<br>
 CUDA capable GPU<br>
 Latest CUDA runtime libraries<br>
-NVIDIA GPU with CUDA support, 2GB VRAM minimum recommended, 4 or 8 GB recommended<br>
-Gamepad to view/rotate maps<br>
+NVIDIA GPU with CUDA support, 2GB VRAM minimum, 4 GB recommended<br>
+Gamepad or mouseto view/rotate maps<br>
 
 -----------------------------
 Version history<BR>
+
+2024/02/22<BR>
+V0.6.0:<BR>
+CPU rendering option<BR>
+The map can be moved/rotated  from now on also with a mouse.<BR>
+New, General Settings window.<BR>
+Newly designed icons.<BR>
+Minor bug fixes.<BR>
+<BR>
+
 2024/02/07<br>
 V0.4.0<br>
 Two major bug fixes for memory handling<br>
