@@ -38,6 +38,7 @@ CPU rendering option<BR>
 The map can be moved/rotated  from now on also with a mouse.<BR>
 New, General Settings window.<BR>
 Newly designed icons.<BR>
+Updated some map data files.<BR>
 Minor bug fixes.<BR>
 <BR>
 
