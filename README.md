@@ -32,6 +32,14 @@ Gamepad or mouseto view/rotate maps<br>
 -----------------------------
 Version history<BR>
 
+2024/07/03<BR>
+V0.7.0:<BR>
+Remote device gtracking support<BR>
+Direct IP to IP and PHP connection support with optional encryption.<BR>
+Manageable list of tracked decvices.<BR>
+Minor changes.<BR>
+<BR>
+
 2024/02/22<BR>
 V0.6.0:<BR>
 CPU rendering option<BR>
