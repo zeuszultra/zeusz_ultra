@@ -32,6 +32,15 @@ Gamepad or mouseto view/rotate maps<br>
 -----------------------------
 Version history<BR>
 
+
+2024/08/20<BR>
+V0.9.1:<BR>
+Render farm creation functionality<BR>
+Draft preparations for GPX import.<BR>
+Minor changes.<BR>
+<BR>
+
+
 2024/07/03<BR>
 V0.7.0:<BR>
 Remote device gtracking support<BR>
