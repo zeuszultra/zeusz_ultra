@@ -13,7 +13,7 @@ Online manual (ENGLISH): https://feherkrisztian.com/zeusz_ultra/tutorial.html
 Usage:
 1. Download full repository and run zeusz_ultra.exe
 
-  MAP / GIS data files (publicly available NASA SRTM and OpenStreetMap derivatives): https://feherkrisztian.com/zeusz_ultra/manual.html 
+  MAP / GIS data files (publicly available NASA SRTM and OpenStreetMap derivatives): https://feherkrisztian.com/zeusz_ultra/downloads.html 
   
 2. Use a gamepad to rotate view etc.
  
