@@ -10,12 +10,12 @@ Project micro site (HUNGARIAN): https://feherkrisztian.com/zeusz_ultra/
 
 Online manual (ENGLISH): https://feherkrisztian.com/zeusz_ultra/tutorial.html
 
-Usage:
+Very basic usage:
 1. Download full repository and run zeusz_ultra.exe
 
   MAP / GIS data files (publicly available NASA SRTM and OpenStreetMap derivatives): https://feherkrisztian.com/zeusz_ultra/downloads.html 
   
-2. Use a gamepad to rotate view etc.
+2. Use a mouse or gamepad to rotate map view etc.
  
 --------------------------------
 
