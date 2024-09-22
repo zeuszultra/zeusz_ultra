@@ -37,12 +37,14 @@ Version history<BR>
 V0.9.3.1:<BR>
 Fixes to HGT DEM handling.<BR>
 New world_HGT.hgt file released, based on NASA SRTM GL03 V003.<BR>
+FULL ZEUSZ Ultra source code available.<BR>
 <BR>
 
 2024/09/12<BR>
 V0.9.3:<BR>
 GPX import.<BR>
 eGPU rendering mode.<BR>
+AI enhanced core rendering functions.<BR>
 Logging can enabled.<BR>
 Minor changes.<BR>
 <BR>
