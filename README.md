@@ -33,6 +33,12 @@ Gamepad or mouseto view/rotate maps<br>
 Version history<BR>
 <BR>
 
+2024/09/22<BR>
+V0.9.3.1:<BR>
+Fixes to HGT DEM handling.<BR>
+New world_HGT.hgt file released, based on NASA SRTM GL03 V003.<BR>
+<BR>
+
 2024/09/12<BR>
 V0.9.3:<BR>
 GPX import.<BR>
@@ -117,5 +123,4 @@ V0.1:<BR>
 Initial upload with basic render feature.<BR>
 <BR>
 
-![kép](https://github.com/zeuszultra/zeusz_ultra/assets/116118578/b5621709-e99b-440b-a1be-18d8109af7d5)
-
+![kép](https://github.com/user-attachments/assets/67bca710-eb18-4118-9b5a-5b0bad480894)
