@@ -6,16 +6,7 @@ USE AT YOUR OWN RISK, NO WARRANTY!
 
 This is an experimental GIS software with CUDA support.
 
-Project micro site (HUNGARIAN): https://feherkrisztian.com/zeusz_ultra/
-
-Online manual (ENGLISH): https://feherkrisztian.com/zeusz_ultra/tutorial.html
-
-Very basic usage:
-1. Download full repository and run zeusz_ultra.exe
-
-  MAP / GIS data files (publicly available NASA SRTM and OpenStreetMap derivatives): https://feherkrisztian.com/zeusz_ultra/downloads.html 
-  
-2. Use a mouse or gamepad to rotate map view etc.
+Project micro site with more exciting content: https://feherkrisztian.com/zeusz_ultra/
  
 --------------------------------
 
@@ -26,7 +17,7 @@ Windows 10/11<br>
 16 GB RAM minimum<br>
 CUDA capable GPU<br>
 Latest CUDA runtime libraries<br>
-NVIDIA GPU with CUDA support, 2GB VRAM minimum, 4 GB recommended<br>
+NVIDIA GPU with CUDA support, 2GB VRAM minimum, 4 GB or more recommended<br>
 Gamepad or mouseto view/rotate maps<br>
 
 -----------------------------
