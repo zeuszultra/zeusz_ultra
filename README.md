@@ -8,7 +8,6 @@ This is an experimental GIS software with CUDA support.
 
 Checksums (SHA256):
 
-b4a8a48993d5481dc39d0095485492dd4dde950b979c35c67888dede8fab888c *hermes.zip
 6c0d906a1590f028c47c847f3454f94e6c94edcc8c12bf436cf395c83c05bce5 *zeusz_ultra.zip
 
 Project micro site with more exciting content, including map data and source codes: https://feherkrisztian.com/zeusz_ultra/
@@ -34,6 +33,7 @@ V0.9.4:<BR>
 Introducing label rendering.<BR>
 New label map data objects.<BR>
 Minor fixes, including logging bug fix.<BR>
+Hermes tool set is now included in the ZEUSZ_ULTRA.ZIP<BR>
 <BR>
 
 2024/09/22<BR>
