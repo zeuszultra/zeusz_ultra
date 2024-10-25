@@ -29,6 +29,13 @@ Gamepad or mouseto view/rotate maps<br>
 Version history<BR>
 <BR>
 
+2024/10/26<BR>
+V0.9.4:<BR>
+Introducing label rendering.<BR>
+New label map data objects.<BR>
+Minor fixes, including logging bug fix.<BR>
+<BR>
+
 2024/09/22<BR>
 V0.9.3.1:<BR>
 Fixes to HGT DEM handling.<BR>
