@@ -71,7 +71,7 @@ Minor changes.<BR>
 
 2024/07/03<BR>
 V0.7.0:<BR>
-Remote device gtracking support.<BR>
+Remote device tracking support.<BR>
 Direct IP to IP and PHP connection support with optional encryption.<BR>
 Manageable list of tracked decvices.<BR>
 Minor changes.<BR>
