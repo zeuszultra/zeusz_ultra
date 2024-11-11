@@ -28,6 +28,15 @@ Gamepad or mouseto view/rotate maps<br>
 Version history<BR>
 <BR>
 
+2024/11/11<BR>
+V0.9.5.1:<BR>
+Render modes.<BR>
+Render background color changeable.<BR>
+Simplified terrain cache setup.<BR>
+Experimental rendering of motorways and primary roads.<BR>
+Minor fixes.<BR>
+<BR>
+
 2024/10/26<BR>
 V0.9.4:<BR>
 Introducing label rendering.<BR>
