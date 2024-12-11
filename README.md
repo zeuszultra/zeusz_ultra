@@ -22,7 +22,7 @@ Windows 10/11<br>
 CUDA capable GPU<br>
 Latest CUDA runtime libraries<br>
 NVIDIA GPU with CUDA support, 2GB VRAM minimum, 4 GB or more recommended<br>
-Gamepad or mouseto view/rotate maps<br>
+Gamepad or mouse to view/rotate maps<br>
 
 -----------------------------
 Release notes<BR>
