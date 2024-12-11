@@ -28,13 +28,10 @@ Gamepad or mouseto view/rotate maps<br>
 Release notes<BR>
 <BR>
 <BR>
-2024/12/03<BR>
-V0.9.7:<BR>
-Text rendering.<BR>
-Map data search feature with new data file.<BR>
-Refactored rendering functions.<BR>
-Refactored remote rendering feature.<BR>
-Splash screen at startup.<BR>
+2024/12/11<BR>
+V0.9.8:<BR>
+Introducing data export feature (still work-in-progress).<BR>
+Re-enabled multi-GPU support.<BR>
 Minor fixes.<BR>
 <BR>
 
