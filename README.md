@@ -25,8 +25,7 @@ NVIDIA GPU with CUDA support, 2GB VRAM minimum, 4 GB or more recommended<br>
 Gamepad or mouse to view/rotate maps<br>
 
 -----------------------------
-Release notes<BR>
-<BR>
+Release notes:<BR>
 <BR>
 2024/12/26<BR>
 V0.9.9:<BR>
