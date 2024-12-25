@@ -8,7 +8,7 @@ This is an experimental GIS software with CUDA support.
 
 Checksums (SHA256):
 
-7d3252fd7aba06e3cde3fe1200c62bea4675abfafbbbe95a60d7237f18c5870a *zeusz_ultra.zip
+3ca350c8b12a10db3997d3f14df1dde4a4c0b7043f9483986569a150bf0c2a79 *zeusz_ultra.zip
 
 Project micro site with more exciting content, including map data and source codes: https://feherkrisztian.com/zeusz_ultra/
  
@@ -28,10 +28,10 @@ Gamepad or mouse to view/rotate maps<br>
 Release notes<BR>
 <BR>
 <BR>
-2024/12/11<BR>
-V0.9.8:<BR>
-Introducing data export feature (still work-in-progress).<BR>
-Re-enabled multi-GPU support.<BR>
+2024/12/26<BR>
+V0.9.9:<BR>
+Finalized OBJ export feature.<BR>
+Reviewed and retested network functions.<BR>
 Minor fixes.<BR>
 <BR>
 
