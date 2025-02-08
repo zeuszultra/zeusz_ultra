@@ -8,7 +8,7 @@ This is an experimental GIS software with CUDA support.
 
 Checksums (SHA256):
 
-665c5acdd6f3e60bb9d85374badff6e8234201bc4e242298b81856204bf960d2 *zeusz_ultra.zip
+e88d6847bde028b2be61549f49ba7d898042a6e0d75292c3b192f64fcbe0cecf *zeusz_ultra.zip
 
 Project micro site with more exciting content, including map data and source codes: https://feherkrisztian.com/zeusz_ultra/
  
