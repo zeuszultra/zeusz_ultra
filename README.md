@@ -29,8 +29,6 @@ Release notes:<BR>
 <BR>
 2025/02/08<BR>
 V1.0:<BR>
-2025/02/08<BR>
-V1.0:<BR>
 Loaded layers can be limited to the terrain size.<BR>
 STL export format.<BR>
 Selectable point cloud, wireframe or full render output modes enabled.<BR>
