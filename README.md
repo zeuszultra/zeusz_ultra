@@ -39,5 +39,3 @@ Fixes on CPU render modes.<BR>
 Dynamic resolution setting for the Map viw window enabled.<BR>
 Minor fixes.<BR>
 <BR>
-
-![kép](https://github.com/user-attachments/assets/7482de12-e471-483b-95a1-cb208ab661f1)
