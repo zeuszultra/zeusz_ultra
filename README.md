@@ -33,6 +33,7 @@ Loaded layers can be limited to the terrain size.<BR>
 STL export format.<BR>
 Selectable point cloud, wireframe or full render output modes enabled.<BR>
 SRTM DEM source formats SRTM3 and SRTM1 switchable.<BR>
+'Extreme' rendering mode enabled.<BR>
 New icons on main window.<BR>
 CUDA settings hidden, if no CUDA GPU is present.<BR>
 Fixes on CPU render modes.<BR>
