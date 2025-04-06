@@ -1,6 +1,6 @@
 # zeusz_ultra
 FREE SOFTWARE
-Zeusz_ultra private GIS project.
+Zeusz Ultra private GIS research project.
 
 USE AT YOUR OWN RISK, NO WARRANTY!
 
