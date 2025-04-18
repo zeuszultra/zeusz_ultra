@@ -23,8 +23,12 @@ Gamepad or mouse to view/rotate maps<br>
 -----------------------------
 Release notes:<BR>
 <BR>
-2025/04/06<BR>
-V1.1:<BR>
-Satellite texture support, especially for ESA/Sentinel imagery downloads.<BR>
-Improved GPX data visualisation.<BR>
+2025/04/18<BR>
+V1.2:<BR>
+Utra fast startup times.<BR>
+Improved character bitmap handling.<BR>
+Improved encryption.<BR>
+General settings are autosaved and loaded.<BR>
+Auto calculation of RAM cache on Settings window.<BR>
+Minor changes.<BR>
 <BR>
